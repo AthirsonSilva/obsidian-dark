@@ -1,0 +1,22 @@
+{
+  "name": "obsidian-dark",
+  "displayName": "Obsidian Dark",
+  "description": "VSCode's new Dark++ Modern, but with a darker flavor :)",
+  "publisher": "Azilzor",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Obsidian Dark++",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Obsidian Dark++-color-theme.json"
+      }
+    ]
+  }
+}
