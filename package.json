@@ -7,13 +7,13 @@
     "type": "git",
     "url": "https://github.com/athirsonsilva/obsidian-dark.git"
   },
-  "version": "1.0.1",
+  "version": "2.0.0",
   "author": {
     "name": "Azilzor",
     "email": "athirsonarceus@gmail.com",
     "url": "https://athirsonsilva.github.io/personal-portfolio/"
   },
-  "icon": "./vscode-grayscale.png",
+  "icon": "vscode-grayscale.png",
   "engines": {
     "vscode": "^1.79.0"
   },
