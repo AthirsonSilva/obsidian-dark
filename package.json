@@ -13,7 +13,7 @@
     "email": "athirsonarceus@gmail.com",
     "url": "https://athirsonsilva.github.io/personal-portfolio/"
   },
-  "icon": "icon.png",
+  "icon": "./vscode-grayscale.png",
   "engines": {
     "vscode": "^1.79.0"
   },
@@ -23,9 +23,24 @@
   "contributes": {
     "themes": [
       {
-        "label": "VSCode Nocturnal Dark++",
+        "label": "Nocturnal Dark++",
         "uiTheme": "vs-dark",
-        "path": "./themes/Obsidian Dark++-color-theme.json"
+        "path": "./themes/nocturnal-dark-plus-plus-color-theme.json"
+      },
+      {
+        "label": "Nocturnal Dracula",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nocturnal-dracula-color-theme.json"
+      },
+      {
+        "label": "Nocturnal Monokai",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nocturnal-monokai-color-theme.json"
+      },
+      {
+        "label": "Nocturnal One Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nocturnal-one-dark-color-theme.json"
       }
     ]
   }
