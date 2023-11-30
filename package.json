@@ -1,47 +1,47 @@
 {
-  "name": "vscode-nocturnal-dark-plus-plus",
-  "displayName": "Nocturnal Dark++",
-  "description": "VSCode's new Dark++ Modern, but with a darker flavor :)",
-  "publisher": "Azilzor",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/athirsonsilva/obsidian-dark.git"
-  },
-  "version": "2.0.0",
-  "author": {
-    "name": "Azilzor",
-    "email": "athirsonarceus@gmail.com",
-    "url": "https://athirsonsilva.github.io/personal-portfolio/"
-  },
-  "icon": "vscode-grayscale.png",
-  "engines": {
-    "vscode": "^1.79.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Nocturnal Dark++",
-        "uiTheme": "vs-dark",
-        "path": "./themes/nocturnal-dark-plus-plus-color-theme.json"
-      },
-      {
-        "label": "Nocturnal Dracula",
-        "uiTheme": "vs-dark",
-        "path": "./themes/nocturnal-dracula-color-theme.json"
-      },
-      {
-        "label": "Nocturnal Monokai",
-        "uiTheme": "vs-dark",
-        "path": "./themes/nocturnal-monokai-color-theme.json"
-      },
-      {
-        "label": "Nocturnal One Dark",
-        "uiTheme": "vs-dark",
-        "path": "./themes/nocturnal-one-dark-color-theme.json"
-      }
-    ]
-  }
+	"name": "vscode-nocturnal-dark-plus-plus",
+	"displayName": "VSCode Nocturnal Dark",
+	"description": "VSCode's new Dark++ Modern, but with a darker flavor :)",
+	"publisher": "Azilzor",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/athirsonsilva/vscode-nocturne-dark"
+	},
+	"version": "2.0.0",
+	"author": {
+		"name": "Azilzor",
+		"email": "athirsonarceus@gmail.com",
+		"url": "https://athirsonsilva.github.io/personal-portfolio/"
+	},
+	"icon": "./assets/img/logo.png",
+	"engines": {
+		"vscode": "^1.79.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Nocturnal Dark++",
+				"uiTheme": "vs-dark",
+				"path": "./themes/nocturnal-dark-plus-plus-color-theme.json"
+			},
+			{
+				"label": "Nocturnal Dracula",
+				"uiTheme": "vs-dark",
+				"path": "./themes/nocturnal-dracula-color-theme.json"
+			},
+			{
+				"label": "Nocturnal Monokai",
+				"uiTheme": "vs-dark",
+				"path": "./themes/nocturnal-monokai-color-theme.json"
+			},
+			{
+				"label": "Nocturnal One Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/nocturnal-one-dark-color-theme.json"
+			}
+		]
+	}
 }
