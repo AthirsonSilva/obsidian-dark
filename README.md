@@ -15,7 +15,7 @@ Or you can use the keyboard shortcut `Ctrl + Shift + P` to open the command pale
 
 If you enjoy the Nocturnal Dark theme and would like to contribute, please feel free to submit a pull request. I'm always open to suggestions and improvements.
 
-* [Nocturnal Dark Theme on GitHub](https://github.com/AthirsonSilva/vscode-nocturne-dark)
+* `Source code`: https://github.com/AthirsonSilva/vscode-nocturne-dark
 
 ## License
 
