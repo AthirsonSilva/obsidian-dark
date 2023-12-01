@@ -25,22 +25,7 @@
 			{
 				"label": "Nocturnal Dark++",
 				"uiTheme": "vs-dark",
-				"path": "./themes/nocturnal-dark-plus-plus-color-theme.json"
-			},
-			{
-				"label": "Nocturnal Dracula",
-				"uiTheme": "vs-dark",
-				"path": "./themes/nocturnal-dracula-color-theme.json"
-			},
-			{
-				"label": "Nocturnal Monokai",
-				"uiTheme": "vs-dark",
-				"path": "./themes/nocturnal-monokai-color-theme.json"
-			},
-			{
-				"label": "Nocturnal One Dark",
-				"uiTheme": "vs-dark",
-				"path": "./themes/nocturnal-one-dark-color-theme.json"
+				"path": "./themes/nocturnal-dark-color-theme.json"
 			}
 		]
 	}
